@@ -1,4 +1,4 @@
-```markdown
+
 # Express JS Playground
 
 This is a simple Express.js application where a user can enter their name and a message. Created to play around with Express.js
@@ -32,4 +32,4 @@ Now, you can visit `http://localhost:3000` to view the application.
 3. Click 'Submit'.
 4. Your message will appear on another page.
 5. You can check all messages by pressing "History" button.
-```
+
